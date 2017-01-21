@@ -9,11 +9,17 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+ 
+    git diff -staged can be used to see that all the staged files are correct
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    It allows the user to branch of into something new
+
 How do the diagrams help you visualize the branch structure?
+
+	It is a simple diagramatic structure
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
