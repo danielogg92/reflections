@@ -20,7 +20,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Seems as though it can be a little time consuming and that not all the changes
+	can be easily tracked when there are multiple people working on the same project.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
